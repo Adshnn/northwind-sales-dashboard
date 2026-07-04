@@ -47,7 +47,7 @@ This project uses a star schema data warehouse model.
 
 ### Schema Diagram
 
-![Data Model](docs/data-model.png)
+![Data Model](images/data-model.png)
 
 
 ## Key Insights

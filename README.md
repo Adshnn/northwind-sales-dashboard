@@ -23,7 +23,6 @@ View the interactive dashboard here:
 ## 📊 Key Analytical Insights 
 1.  **KPI-Driven Performance (The $100K Threshold):** Applied rigorous conditional logic where revenue > $100K is classified as 'Above Target' (Orange). This highlighted that while *Beverages* ($262K) are revenue drivers, categories like *Produce* ($93K) require immediate intervention.
 2.  **Market Dominance & Anomalies:** The USA and Germany markets comfortably exceeded the $100K threshold, whereas France underperformed, signaling a need for localized sales strategy adjustments.
-3.  **Data Quality & UX:** Executed Data Source Filters to eliminate critical anomalies (e.g., '1900' default years, 'None' employee values) and optimized the data-ink ratio for executive reading.
 
 ## 🛠️ Technical Stack
 *   **Database & Modeling:** SQL Server, Data Warehouse (Star Schema)
